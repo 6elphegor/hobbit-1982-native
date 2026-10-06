@@ -1,0 +1,290 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+thorin sits down and starts singing about gold.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+gandalf gives the curious map to you.
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+gandalf goes north.
+> WAIT
+
+you wait.
+time passes...
+day dawns.
+> WAIT
+
+you wait.
+time passes...
+> E
+
+you go east.
+you are in in a clearing with two stone 
+trolls
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the large key.
+thorin enters.
+> TAKE KEY
+
+you take the large key.
+thorin says " hurry up ".
+> N
+
+you go north.
+you are in a hidden path with trolls foot printS
+[picture $06]
+
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin says " hurry up ".
+> N
+
+you go north.
+you are in the trolls cave
+[picture $07]
+
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE ROPE
+
+you take the rope.
+thorin says " hurry up ".
+> TAKE SWORD
+
+you take the short strong sword.
+thorin says " hurry up ".
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+gandalf enters.
+thorin enters.
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+[picture $0B]
+
+visible exits are: east west north
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are on a narrow dangerous path
+visible exits are: east west
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+thorin enters.
+> N
+
+you go north.
+you are at the great river
+[picture $31]
+
+visible exits are: northeast south east 
+southwest
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+thorin enters.
+> NE
+
+you go northeast.
+you are at the gate to mirkwood
+[picture $18]
+
+visible exits are: west south
+you see :
+      nothing
+thorin enters.
+> E
+ you cannot go east.
+> E
+ you cannot go east.
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> PULL ROPE
+
+you pull the rope.
+thorin waits.
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> THROW ROPE ACROSS RIVER
+ i do not see the river here
+> CLIMB INTO BOAT
+ i do not see the boat here
+> E
+ you cannot go east.
+> CLIMB OUT OF BOAT
+ i do not see the boat here
+> E
+ you cannot go east.
+> NE
+ you cannot go northeast.
+> BREAK WEB WITH SWORD
+ i do not see the web here
+> NE
+ you cannot go northeast.
+> BREAK WEB WITH SWORD
+ i do not see the web here
+> N
+ you cannot go north.
+> EXAMINE MAGIC DOOR
+ i do not see the magic door 
+here
+> E
+ you cannot go east.
+> BREAK WEB WITH SWORD
+ i do not see the web here
+> E
+ you cannot go east.
+> BREAK WEB WITH SWORD
+ i do not see the web here
+> E
+ you cannot go east.
+>  LOOK
+
+you are at the gate to mirkwood
+[picture $18]
+
+visible exits are: west south
+you see :
+thorin.
+thorin waits.
+> 

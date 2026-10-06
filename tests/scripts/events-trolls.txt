@@ -1,0 +1,59 @@
+#opts --seed 42
+# The trolls: they talk ($A9BD) and eat you ($A94E); in a second game day
+# dawns and they turn to stone ($A971). Elrond gives you lunch ($A9E5) and
+# reads the map ($A7C4). Then the forest road, where pale bulbous eyes
+# stare ($AB1F) and something stings ($AB3A), three times.
+OPEN DOOR
+E
+E
+LOOK
+@key  
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+LOOK
+SE
+EXAMINE MAP
+WAIT
+GIVE MAP TO ELROND
+SAY TO ELROND "EXAMINE MAP"
+WAIT
+SAY TO ELROND "READ MAP"
+SAY TO ELROND "EXAMINE ROPE"
+E
+E
+E
+E
+S
+E
+WAIT
+WAIT
+WAIT
+WAIT
+@key  
+# Third game: leave the forest while the eyes watch.
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+SE
+E
+E
+E
+E
+S
+E
+W
+@key  
+LOOK

@@ -1,0 +1,81 @@
+#opts --seed 7
+# Captured by the wood elf; with the sword for light, into the cellar when
+# the butler opens the red door: drink the wine ($AAF9, then $AB0B), the
+# trap door ($A67E), jump onto the barrel ($AA27); the cellar starts the
+# side door timers ($AA74, $AA91).
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+TAKE ROPE
+S
+S
+SE
+E
+E
+E
+E
+S
+WAIT
+WAIT
+KILL WARG WITH SWORD
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+OPEN BARREL
+DRINK WINE
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+JUMP ONTO BARREL
+OPEN TRAP DOOR
+CLOSE TRAP DOOR
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+OPEN TRAP DOOR
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT

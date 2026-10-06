@@ -1,0 +1,17 @@
+#opts --seed 3
+# Going through doors ($8F3B -> YouSeeEntry $962B), revisiting places
+# (the short description, $96A8), and being eaten by
+# the troll, who dies of it ($977F) - and so does the player ($90D2).
+GO THROUGH DOOR
+OPEN DOOR
+GO THROUGH DOOR
+W
+E
+GO THROUGH DOOR
+LOOK
+E
+N
+LOOK
+S
+@key  
+LOOK

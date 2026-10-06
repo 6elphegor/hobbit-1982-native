@@ -1,0 +1,15 @@
+#opts --seed 1
+# Swimming the black river ($A310) puts you to sleep for ever.
+OPEN DOOR
+E
+E
+SE
+E
+E
+E
+E
+NE
+E
+SWIM RIVER
+@key  
+LOOK

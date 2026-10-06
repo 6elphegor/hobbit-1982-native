@@ -1,0 +1,197 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin says " hurry up ".
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> NE
+
+you go northeast.
+you are in a hidden path with trolls foot printS
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf enters.
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf drops the curious map.
+> WAIT
+
+you wait.
+time passes...
+gandalf says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf goes south.
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> S
+
+you go south.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+gandalf. gandalf is carrying
+the large key.
+the hideous troll.
+the vicious troll.
+gandalf gives the large key to you.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> N
+
+you go north.
+the trolls path
+visible exits are: south
+you see :
+a curious map.
+thorin enters.
+> UNLOCK DOOR WITH MAP
+ i cannot do that.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+> LOCK DOOR WITH KEY
+
+you lock the heavy rock door with the 
+large key.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+day dawns.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin waits.
+> N
+
+you go north.
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE SWORD
+
+you take the short strong sword.
+thorin says " hurry up ".
+> TAKE ROPE
+
+you take the rope.
+> DROP SWORD
+
+you drop the short strong sword.
+> TIE ROPE TO SWORD
+
+you tie the rope to the short strong sword.
+> INVENTORY
+
+you are carrying.
+the large key.
+thorin says " hurry up ".
+> UNTIE SWORD
+
+you untie the short strong sword.
+> LOOK
+
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin.
+thorin waits.
+> TIE ROPE TO DOOR
+
+you tie the rope to the heavy rock door.
+> LOOK
+
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope. tieD to the rope there is
+the heavy rock door.
+thorin.
+> INVENTORY
+
+you are carrying.
+the large key.
+thorin says " hurry up ".
+> UNTIE DOOR
+
+you untie the heavy rock door.
+thorin says " hurry up ".
+> LOOK
+
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin.
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+a curious map.
+thorin enters.
+> LOOK
+
+you are in a hidden path with trolls foot printS
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+a curious map.
+thorin.
+thorin says " hurry up ".
+> 

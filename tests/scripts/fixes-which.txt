@@ -1,0 +1,11 @@
+#opts --seed 42
+#scene 0=05 47=05 48=05 03=05 03@1=00
+# "which ?" about the second object ($7DB4) asks with the first byte of
+# the phrase and its address, not the word in it: "which ting ?", and the
+# answer then fails. Fixed (clean edition): "which troll ?", and the map
+# goes to the troll named. The scene: the player with the map in the
+# trolls' clearing, with both trolls.
+LOAD
+@key  
+GIVE MAP TO TROLL
+HIDEOUS

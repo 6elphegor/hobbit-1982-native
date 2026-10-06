@@ -1,0 +1,27 @@
+#opts --seed 1
+# Beorns house and the great river (port/actions1.c): taking from and
+# putting into the cupboard, putting something where it already is,
+# throwing at the water (a fluid), eating, and a place that is always
+# too full to enter (the stone fills it).
+OPEN DOOR
+E
+E
+SE
+E
+E
+E
+E
+OPEN CURTAIN
+OPEN CUPBOARD
+TAKE FOOD OUT OF CUPBOARD
+PUT FOOD IN CUPBOARD
+PUT FOOD IN CUPBOARD
+TAKE FOOD
+N
+THROW FOOD AT WATER
+TAKE FOOD
+STRIKE WATER WITH FOOD
+EAT FOOD
+NE
+E
+LOOK

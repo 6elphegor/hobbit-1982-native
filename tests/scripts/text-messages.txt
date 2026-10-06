@@ -1,0 +1,19 @@
+#opts --seed 7 --text-only
+# Messages with control codes: objects, containers, a lock, things said
+# in quotes, and a fight with a weapon that is not one.
+TAKE CHEST
+OPEN CHEST
+PUT MAP IN CHEST
+LOOK
+TAKE MAP FROM CHEST
+UNLOCK DOOR WITH MAP
+SAY TO THORIN "XYZZY"
+SAY TO THORIN "TAKE THE FOOBAR"
+SAY TO GANDALF "HELLO"
+THORIN, TAKE MAP
+WEAR MAP
+DROP CHEST
+INVENTORY
+KILL THORIN WITH MAP
+@key  
+LOOK

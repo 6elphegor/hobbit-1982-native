@@ -1,0 +1,132 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin waits.
+> TAKE ALL EXCEPT THE MAP
+> DROP ALL
+
+you drop the curious map.
+gandalf opens the round green door.
+> TAKE ALL
+
+you take the curious map.
+gandalf goes east.
+thorin sits down and starts singing about gold.
+> DROP ALL EXCEPT THE CHEST
+
+you drop the curious map.
+> GIVE THE MAP
+ i see nothing to give
+> PUT THE MAP
+ i see nothing to put the 
+curious map in
+> GIVE
+ i see nothing to give
+> OPEN
+
+you open the wooden chest.
+thorin says " hurry up ".
+> UNLOCK THE DOOR
+ i see nothing to unlock the 
+round green door with
+> TAKE THE MAP FROM
+ i cannot do that.
+> PUT THE MAP ON
+ i see nothing to put the 
+curious map on
+> OPEN THE DOOR WITH
+ i do not know the verb " open 
+with "
+> LOOK THROUGH THE MAP
+ i cannot do that.
+> CLIMB THE MAP UP
+ i cannot do that.
+> EXAMINE THE DWARF
+ i do not know the word " DWARF"
+> GIVE THE MAP TO THE DWARF
+ i do not know the word " DWARF"
+> GIVE THE MAP TO DWARF AND WIZARD
+ i do not know the word " DWARF "
+> SAY TO THORIN "TAKE THE MAP"
+
+you talk to thorin.
+thorin takes the curious map.
+> SAY TO GANDALF "GIVE THE MAP TO THORIN"
+ i do not see the gandalf here
+> SAY TO THORIN "GO EAST"
+
+you talk to thorin.
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> OPEN DOOR
+ the door is open.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> EXAMINE TROLL
+ you cannot examine the hideous troll.
+> KILL TROLL
+ which troll ? > VICIOUS
+
+you attack the vicious troll.
+but the effort is wasted. his defense is 
+too strong.
+thorin says " hurry up ".
+the hideous troll eats you.
+his foul gluttony has killED the hideous 
+troll.
+you are dead.
+you have MASTERED 2.5% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin sits down and starts singing about gold.
+> LL TROLL WITH SWORD
+ i do not know the word " LL "
+> TAKE ALL
+> TAKE KEY
+ i do not see the key here
+> DROP ALL EXCEPT KEY
+
+you drop the curious map.
+gandalf opens the round green door.
+thorin waits.
+> 

@@ -1,0 +1,11 @@
+#opts --seed 42
+# SAVE (two press-any-key prompts: start tape, then rewind for verify),
+# change the world, LOAD, and check it is restored.
+SAVE
+@key  
+@key  
+OPEN DOOR
+EAST
+LOAD
+LOOK
+INVENTORY

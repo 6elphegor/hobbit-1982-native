@@ -1,0 +1,86 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> PUT
+ i see nothing to put
+> PUT THE ALL
+> UNLOCK DOOR WITH MAP
+ the map doES not fit this lock.
+> LOCK DOOR WITH MAP
+ the map doES not fit this lock.
+> TAKE MAP
+ you are already carrying the 
+map.
+> UNLOCK DOOR WITH MAP
+ the map doES not fit this lock.
+> BURN MAP
+ you cannot burn the curious map.
+> BURN THORIN
+ you cannot burn thorin.
+> CAPTURE THORIN
+
+you attack thorin.
+but the effort is wasted. his defense is 
+too strong.
+gandalf opens the round green door.
+thorin attacks you.
+with one well placed blow thorin cleaves 
+your skull.
+you are dead.
+you have MASTERED 0.0% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> TIE MAP TO CHEST
+ you cannot tie the curious map to the wooden chest.
+> TIE MAP TO THORIN
+ you cannot tie the curious map to thorin.
+> UNTIE MAP
+ the map is not tieD.
+> UNTIE THORIN
+ thorin is not tieD.
+> WEAR RING
+ i do not see the ring here
+> TAKE OFF RING
+ you are not wearING the ring.
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+thorin waits.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> LOOK
+
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf says " what'S this ? ".
+thorin waits.
+> 

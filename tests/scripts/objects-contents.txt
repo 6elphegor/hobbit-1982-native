@@ -1,0 +1,21 @@
+#opts --seed 5
+# port/objects.c: containers and what is in them ($A050, $A09D), Thorin
+# inside the chest, open and closed ($9B16), a location named as an
+# object ($9EA0), and throwing at someone ($9F4A swaps the two objects).
+OPEN CHEST
+PUT MAP IN CHEST
+LOOK
+SAY TO THORIN "CLIMB INTO CHEST"
+SAY TO THORIN "CLIMB INTO CHEST"
+CLOSE CHEST
+WAIT
+LOOK
+OPEN CHEST
+WAIT
+LOOK
+ENTER LONELANDS
+W
+TAKE MAP
+THROW MAP AT THORIN
+@key  
+LOOK

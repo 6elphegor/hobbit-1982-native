@@ -1,0 +1,9 @@
+#opts --seed 5
+# The input line ($85B8): a line longer than a row scrolls the input rows
+# up ($860D); deleting back past the start of the row scrolls them down
+# again ($864A). CAPS SHIFT+0 clears the line; symbol shift keys (GetKey's
+# second map).
+LOOKLOOKLOOKLOOKLOOKLOOKLOOKLOOKLOOKX{DEL}{DEL}{DEL}{DEL}{DEL}{DEL}{DEL}{DEL}
+TAKE ROPE{CLEAR}LOOK
+SAY "HELLO, THORIN."
+INVENTORY

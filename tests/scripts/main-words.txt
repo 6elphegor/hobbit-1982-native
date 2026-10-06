@@ -1,0 +1,26 @@
+#opts --show-pictures
+# With RNG=clean the seed is fixed: the clean edition does not reproduce R
+# (it takes any byte), and $26 is what the original's R gives here.
+#clean-opts --seed 38
+# The main loop ($6D13) with no --seed: the seed comes from R ($6CA7), so
+# this checks that the port counts the refresh register as the original.
+# Unknown words ($6DA2), quotes ($B71B), an unclosed quote ($792F), several
+# sentences in one line, and '@' (repeat the last command, ReadLine Z).
+LOOK
+XYZZY
+TAKE FROBNITZ
+SAY "FROBNITZ"
+SAY TO GANDALF "HELLO"
+SAY TO THORIN "GO EAST"
+SAY TO THORIN "WAIT" AND LOOK
+SAY "HELLO
+INVENTORY
+@key @
+TAKE MAP. LOOK. INVENTORY
+TAKE MAP AND OPEN DOOR, EAST
+SAY TO THORIN "N" "S"
+"
+""
+SAY ""
+SAY TO GANDALF "HELLO" THEN W
+@key @

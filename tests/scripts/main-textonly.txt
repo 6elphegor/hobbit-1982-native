@@ -1,0 +1,11 @@
+#opts --text-only
+# With RNG=clean the seed is fixed: the clean edition does not reproduce R
+# (it takes any byte), and $26 is what the original's R gives here.
+#clean-opts --seed 38
+# N held at the title ($6C78: $B707 = 0, no pictures), with the seed from
+# R (no --seed): a different number of key-wait turns from main-words.
+EAST
+"HELLO" SAID THORIN
+OPEN DOOR. EAST. NORTH
+@key @
+INVENTORY

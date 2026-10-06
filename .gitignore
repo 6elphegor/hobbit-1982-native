@@ -1,0 +1,19 @@
+# Built
+build/
+*.dSYM
+*.gcda
+*.gcno
+*.o
+__pycache__/
+
+# Yours, not ours: the game and the ROM (bring your own, see README.md),
+# and what is made from them
+*.tzx
+*.tap
+*.rom
+tools/mem.bin
+
+# The disassembly used as the map (pobtastic/hobbit): fetch it yourself
+reference/
+
+.DS_Store

@@ -1,0 +1,24 @@
+#opts --seed 42
+# Short ways into this range from the first location: PUT with nothing
+# ($A164), the green door with the wrong key ($A358), burning, capturing,
+# tying and untying without the rope, the ring that is not there.
+# (Thorin does not like being captured.)
+PUT
+PUT THE ALL
+UNLOCK DOOR WITH MAP
+LOCK DOOR WITH MAP
+TAKE MAP
+UNLOCK DOOR WITH MAP
+BURN MAP
+BURN THORIN
+CAPTURE THORIN
+@key  
+TIE MAP TO CHEST
+TIE MAP TO THORIN
+UNTIE MAP
+UNTIE THORIN
+WEAR RING
+TAKE OFF RING
+OPEN DOOR
+E
+LOOK

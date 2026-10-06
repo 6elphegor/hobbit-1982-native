@@ -1,0 +1,14 @@
+#opts --seed 42
+#scene 12=01 0E=01
+# TIE ROPE TO SWORD with both on the floor (the scene: the rope and the
+# sword in Bag End). The original keeps
+# the rope's record in IY across the take ($8D33), which leaves the
+# actor's there: the player is put inside himself, and the next walk
+# through containers loops for ever. Fixed (clean edition): the rope
+# goes with the sword, carried.
+LOAD
+@key  
+LOOK
+TIE ROPE TO SWORD
+LOOK
+INVENTORY

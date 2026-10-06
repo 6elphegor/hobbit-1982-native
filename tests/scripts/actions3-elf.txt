@@ -1,0 +1,39 @@
+#opts --seed 1
+# Captured by the wood elf ($A3E6, to the elvenking's dungeon) with the
+# large key and the sword: the red door ($A334) with the wrong key.
+OPEN DOOR
+E
+NE
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+S
+N
+UNLOCK DOOR WITH MAP
+UNLOCK DOOR WITH KEY
+LOCK DOOR WITH KEY
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+WAIT
+WAIT
+S
+S
+SE
+E
+E
+E
+E
+NE
+E
+UNLOCK DOOR WITH KEY
+UNLOCK DOOR WITH SWORD
+LOCK DOOR WITH KEY
+KILL WARG WITH SWORD
+WAIT
+WAIT

@@ -1,0 +1,22 @@
+#opts --seed 42
+# HELP ($83A0) in different places (a hint where the table at $83CD has
+# one, "you're doing fine" elsewhere), HELP said to someone else (skipped,
+# $83A4), and SCORE ($83EF) along the way.
+HELP
+SCORE
+SAY TO GANDALF "HELP"
+OPEN DOOR
+E
+HELP
+E
+HELP
+SW
+HELP
+WAIT
+WAIT
+SCORE
+E
+HELP
+SE
+HELP
+SCORE AND HELP

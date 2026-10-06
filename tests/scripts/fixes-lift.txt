@@ -1,0 +1,10 @@
+#opts --seed 42
+#scene 0@3=E0 0E=01
+# The lift check ($8D1A) tests the sign of strength - load - carried, so a
+# strong actor (here the player, given strength $E0 in the scene) is
+# told "you are carrying too much". Fixed (clean edition): compared
+# as numbers.
+LOAD
+@key  
+TAKE SWORD
+INVENTORY

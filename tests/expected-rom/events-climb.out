@@ -1,0 +1,66 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> CLIMB INTO CHEST
+ the chest is closed.
+> OPEN CHEST
+
+you open the wooden chest.
+gandalf opens the round green door.
+> CLIMB INTO CHEST
+
+you climb into the wooden chest.
+gandalf goes east.
+thorin says " hurry up ".
+> CLIMB INTO CHEST
+ you cannot climb into the 
+wooden chest.
+> CLIMB OUT OF CHEST
+
+you climb out of the wooden chest.
+thorin says " hurry up ".
+> CLIMB OUT OF CHEST
+ you cannot climb out of the 
+wooden chest.
+> TAKE CHEST
+ the chest is too heavy to lift.
+> SAY TO THORIN "CLIMB INTO CHEST"
+
+you talk to thorin.
+thorin sayS " no "
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin.
+> SAY TO THORIN "CLIMB OUT OF CHEST"
+
+you talk to thorin.
+thorin sits down and starts singing about gold.
+> SAY TO THORIN "CLIMB OUT OF CHEST"
+
+you talk to thorin.
+> CLIMB INTO CHEST
+
+you climb into the wooden chest.
+thorin says " hurry up ".
+> CLOSE CHEST
+
+you close the wooden chest.
+it is dark.
+> LOOK
+ i see nothing here.
+ it is dark.
+> CLIMB OUT OF CHEST
+ i see nothing here.
+ it is dark.
+> 

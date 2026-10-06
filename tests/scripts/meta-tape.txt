@@ -1,0 +1,16 @@
+#opts --seed 3
+# LOAD with no saved game: a tape error ($8498), a key, and a restart.
+# Then SAVE and LOAD in one sentence, and a second LOAD of the same tape.
+OPEN DOOR
+LOAD
+@key  
+LOOK
+TAKE MAP
+SAVE AND LOOK
+@key  
+@key  
+DROP MAP
+E
+LOAD THEN INVENTORY
+LOAD
+LOOK

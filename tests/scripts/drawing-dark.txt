@@ -1,0 +1,23 @@
+#opts --seed 7 --show-pictures
+# A picture in the dark (port/drawing.c, $820B): from the trolls' path,
+# with the sword left outside, look through the door into the trolls'
+# cave: the border and the picture are black, and nothing is drawn.
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+S
+DROP SWORD
+LOOK THROUGH DOOR
+LOOK

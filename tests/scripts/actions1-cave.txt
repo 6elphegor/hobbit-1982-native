@@ -1,0 +1,56 @@
+#opts --seed 1
+# The trolls' cave (port/actions1.c): weapons and rope. Striking and
+# throwing with things that are not weapons, tying things to the rope,
+# entering things that are not exits; then home, where the chest holding
+# the key is too heavy to lift, taking things out of it, and the round
+# door broken with the sword, which breaks too; at last attacking Thorin,
+# who is not amused.
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+LOOK THROUGH DOOR
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+LOOK THROUGH DOOR
+N
+TAKE ROPE
+TAKE SWORD
+INVENTORY
+STRIKE DOOR WITH ROPE
+STRIKE DOOR WITH KEY
+STRIKE DOOR WITH SWORD
+THROW KEY AT DOOR
+TAKE KEY
+TIE ROPE TO SWORD
+DROP SWORD
+TAKE SWORD
+DROP ROPE
+TAKE ROPE
+ENTER ROPE
+ENTER THORIN
+S
+S
+SW
+OPEN DOOR
+W
+OPEN CHEST
+PUT KEY IN CHEST
+TAKE CHEST
+DROP MAP
+TAKE MAP OUT OF CHEST
+TAKE KEY OUT OF CHEST
+INVENTORY
+STRIKE DOOR WITH SWORD
+ATTACK THORIN WITH DOOR
+ATTACK THORIN WITH SWORD
+ATTACK THORIN WITH SWORD
+@key  
+LOOK

@@ -1,0 +1,71 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin waits.
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf.
+thorin.
+gandalf opens the round green door.
+thorin waits.
+> XYZZY
+ i do not know the word " XYZZY"
+> TAKE FROBNITZ
+ i do not know the word " FROBNITZ"
+> SAY "FROBNITZ"
+ i do not know the word " FROBNITZ"
+> SAY TO GANDALF "HELLO"
+ what ?
+> SAY TO THORIN "GO EAST"
+
+you talk to thorin.
+gandalf goes east.
+thorin goes east.
+> SAY TO THORIN "WAIT" AND LOOK
+ i do not see the thorin here
+> SAY "HELLO
+ what ?
+> INVENTORY
+
+you are carrying.
+a curious map.
+thorin enters.
+
+you are carrying.
+a curious map.
+> TAKE MAP. LOOK. INVENTORY
+ you are already carrying the 
+map.
+> TAKE MAP AND OPEN DOOR, EAST
+ you are already carrying the 
+map.
+> SAY TO THORIN "N" "S"
+
+you talk to thorin.
+> "
+ what ?
+> ""
+ what ?
+> SAY ""
+
+you talk to thorin.
+thorin says " hurry up ".
+> SAY TO GANDALF "HELLO" THEN W
+ i do not see the gandalf here
+ i do not see the gandalf here
+> 

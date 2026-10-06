@@ -1,0 +1,256 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+thorin sits down and starts singing about gold.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+gandalf gives the curious map to you.
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+gandalf goes north.
+> WAIT
+
+you wait.
+time passes...
+day dawns.
+> WAIT
+
+you wait.
+time passes...
+> E
+
+you go east.
+you are in in a clearing with two stone 
+trolls
+visible exits are: southwest southeast 
+north
+you see :
+the large key.
+thorin enters.
+> TAKE KEY
+
+you take the large key.
+thorin says " hurry up ".
+> N
+
+you go north.
+you are in a hidden path with trolls foot printS
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> LOOK THROUGH DOOR
+ the door is closed.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin says " hurry up ".
+> LOOK THROUGH DOOR
+
+you look through the heavy rock door.
+you see the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+> N
+
+you go north.
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE ROPE
+
+you take the rope.
+thorin waits.
+> TAKE SWORD
+
+you take the short strong sword.
+thorin waits.
+> INVENTORY
+
+you are carrying.
+a curious map.
+the large key.
+the short strong sword.
+the rope.
+> STRIKE DOOR WITH ROPE
+ you cannot strike the heavy 
+rock door with the rope.
+> STRIKE DOOR WITH KEY
+ you cannot strike the heavy 
+rock door with the large key.
+> STRIKE DOOR WITH SWORD
+
+you strike the heavy rock door with the 
+short strong sword.
+the sword is broken.
+it is dark.
+you hear a noise.
+> THROW KEY AT DOOR
+ i see nothing here.
+ it is dark.
+> TAKE KEY
+ i see nothing here.
+ it is dark.
+> TIE ROPE TO SWORD
+ i see nothing here.
+ it is dark.
+> DROP SWORD
+
+you drop the broken sword.
+it is dark.
+you hear a noise.
+> TAKE SWORD
+ i see nothing here.
+ it is dark.
+> DROP ROPE
+
+you drop the rope.
+it is dark.
+you hear a noise.
+> TAKE ROPE
+ i see nothing here.
+ it is dark.
+> ENTER ROPE
+ you cannot enter the rope.
+> ENTER THORIN
+ you cannot enter thorin.
+> S
+
+you go somewhere.
+the trolls path
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> OPEN DOOR
+
+you open the round green door.
+> W
+
+you go west.
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin enters.
+> OPEN CHEST
+
+you open the wooden chest.
+> PUT KEY IN CHEST
+
+you put the large key in the wooden chest.
+> TAKE CHEST
+ the chest is too heavy to lift.
+> DROP MAP
+
+you drop the curious map.
+thorin waits.
+> TAKE MAP OUT OF CHEST
+ the map is not in the chest.
+> TAKE KEY OUT OF CHEST
+
+you take the large key out of the wooden 
+chest.
+thorin waits.
+> INVENTORY
+
+you are carrying.
+the large key.
+> STRIKE DOOR WITH SWORD
+ i do not see the sword here
+> ATTACK THORIN WITH DOOR
+ you cannot kill with the door.
+> ATTACK THORIN WITH SWORD
+ i do not see the sword here
+> ATTACK THORIN WITH SWORD
+ i do not see the sword here
+>  LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+a curious map.
+the wooden chest.
+thorin.
+thorin attacks you.
+with one well placed blow thorin cleaves 
+your skull.
+you are dead.
+you have MASTERED 7.5% of this adventure.

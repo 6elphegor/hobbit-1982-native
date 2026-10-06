@@ -1,0 +1,50 @@
+#opts --seed 2
+# The forest road: the eyes ($AB1F) and the sting ($AB3A) at the second
+# forest place, and when you go on from it. On the way, Elrond gives the
+# lunch back ($A9E5).
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+SE
+E
+E
+E
+E
+S
+E
+E
+WAIT
+WAIT
+WAIT
+WAIT
+@key  
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+SE
+WAIT
+GIVE LUNCH TO ELROND
+WAIT
+WAIT
+E
+E
+E
+E
+S
+E
+E
+E
+@key  
+LOOK

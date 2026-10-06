@@ -1,0 +1,22 @@
+#opts --seed 42
+# The parser's front end: line editing, abbreviations, punctuation,
+# unknown words, and the special keys.
+INVENT
+I
+EXAM CHEST
+EXAMINE THE WOODEN CHEST
+TAKE MAP, THEN DROP IT
+SAY TO GANDALF "HELLO"
+PLUGH XYZZY
+LOOX{DEL}K
+WHATEVER{CLEAR}LOOK
+# '@' on an empty line repeats the last command.
+@key @
+# Direction keys as the first key: N, S, W, E with ENTER.
+@key {RIGHT}
+@key {LEFT}
+WAIT. WAIT
+GO EAST. GO WEST
+# Fill the 128-character buffer: the rest is dropped.
+EXAMINE THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST AND THE CHEST
+DESCRIBE GANDALF

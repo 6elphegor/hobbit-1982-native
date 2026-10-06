@@ -1,0 +1,8 @@
+#opts --seed 42 --show-pictures
+# The first moves of the game, a parser error, and leaving Bag End.
+LOOK
+INVENTORY
+XYZZY
+EXAMINE CHEST
+OPEN DOOR
+EAST

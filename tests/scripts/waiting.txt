@@ -1,0 +1,5 @@
+#opts --seed 42
+# Doing nothing: the idle timer types WAIT by itself and the others act.
+@wait 4000
+@wait 4000
+INVENTORY

@@ -1,0 +1,19 @@
+#opts --seed 1
+# Water: drinking at the great river ($A244), then the black water of the
+# bewitched place ($A328), which kills.
+OPEN DOOR
+E
+E
+SE
+E
+E
+E
+E
+N
+DRINK WATER
+S
+NE
+E
+DRINK WATER
+@key  
+LOOK

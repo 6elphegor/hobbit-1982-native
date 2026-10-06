@@ -1,0 +1,380 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin says " hurry up ".
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+gandalf gives the curious map to you.
+> WAIT
+
+you wait.
+time passes...
+gandalf goes north.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+day dawns.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> E
+
+you go east.
+you are in in a clearing with two stone 
+trolls
+visible exits are: southwest southeast 
+north
+you see :
+the large key.
+gandalf enters.
+thorin enters.
+> TAKE KEY
+
+you take the large key.
+gandalf goes southeast.
+> N
+
+you go north.
+you are in a hidden path with trolls foot printS
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+thorin waits.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin waits.
+> N
+
+you go north.
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE ROPE
+
+you take the rope.
+thorin sits down and starts singing about gold.
+> TAKE SWORD
+
+you take the short strong sword.
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+thorin enters.
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+gandalf.
+gandalf goes north.
+thorin enters.
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+visible exits are: east west north
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are on a narrow dangerous path
+visible exits are: east west
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+thorin enters.
+> NE
+
+you go northeast.
+you are at the gate to mirkwood
+visible exits are: west south east
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in the bewitched gloomy place
+to the south there is the fast black river
+visible exits are: west east
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are on the west bank of a black river
+to the east there is the fast black river
+visible exits are: west
+you see :
+      nothing
+thorin enters.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and falls just short of 
+the other side.
+thorin waits.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and landS in the boat.
+thorin waits.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and landS in the boat.
+but slides out again.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and landS in the boat.
+but slides out again.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and falls just short of 
+the other side.
+thorin waits.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and landS in the boat.
+thorin sits down and starts singing about gold.
+> PULL ROPE
+
+you pull the rope.
+the boat glides across the river and landSon this side.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and falls just short of 
+the other side.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and falls just short of 
+the other side.
+thorin waits.
+> THROW ROPE ACROSS RIVER
+
+you throw the rope across the fast black 
+river.
+it sails across and landS on the other 
+side.
+> THROW ROPE ACROSS RIVER
+ i do not see the rope here
+> CLIMB INTO BOAT
+
+you climb into the wooden boat.
+with a lurch the boat glides across the 
+river and landS on the other side.
+you are on the east bank of a black river
+to the west there is the fast black river
+visible exits are: east
+you see :
+the rope.
+the wooden boat. in the boat there is
+you
+> E
+ you cannot go east.
+> CLIMB OUT OF BOAT
+
+you climb out of the wooden boat.
+> E
+
+you go east.
+you are in the green forest
+to the northeast there is the spider web
+visible exits are: west
+you see :
+      nothing
+> NE
+ you cannot go northeast.
+> BREAK WEB WITH SWORD
+
+you strike the spider web with the short 
+strong sword.
+the web is broken.
+the sword is broken.
+some spiderS start mending the broken web.
+> NE
+
+you go northeast.
+you are in a place of black spiderS
+to the east there is the broken web
+to the west there is the broken web
+to the north there is the broken web
+to the south there is the broken web
+you see :
+      nothing
+> BREAK WEB WITH SWORD
+
+you strike the spider web with the broken sword.
+the web is broken.
+some spiderS start mending the broken web.
+> N
+
+you go north.
+you are in aN elvish clearing with 
+levelled ground and logs
+to the east there is the broken web
+to the northeast there is the magic door
+visible exits are: west
+you see :
+      nothing
+> EXAMINE MAGIC DOOR
+
+you examine the magic door.
+you see nothing special here.
+> E
+ you cannot go east.
+> BREAK WEB WITH SWORD
+
+you strike the spider web with the broken sword.
+the web is broken.
+some spiderS start mending the broken web.
+> E
+
+you go east.
+the spider threads place
+you see :
+      nothing
+> BREAK WEB WITH SWORD
+
+you strike the spider web with the broken sword.
+the web is broken.
+some spiderS start mending the broken web.
+> E
+
+you go east.
+you are in the deep bog
+to the west there is the broken web
+you see :
+      nothing
+you are slowly sinking into the bog.
+you are dead.
+you have MASTERED 15.0% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin says " hurry up ".
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf.
+thorin.
+gandalf opens the round green door.
+> 

@@ -1,0 +1,6 @@
+#opts --seed 42 --text-only --show-pictures
+# Holding N at the title turns pictures off: no picture pauses.
+EAST
+OPEN DOOR
+EAST
+NORTH

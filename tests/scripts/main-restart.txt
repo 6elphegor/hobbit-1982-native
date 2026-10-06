@@ -1,0 +1,19 @@
+#opts --seed 3 --show-pictures
+# Restarts ($6C27): a death, then N held at the press-any-key wait
+# ($6C6E, $6C78 into $B707): text only from then on; QUIT and a restart
+# with pictures again; SAVE, a death, LOAD after the restart.
+ATTACK THORIN
+@key N
+LOOK
+EAST
+QUIT
+@key  
+LOOK
+SAVE
+@key  
+@key  
+ATTACK THORIN
+@key  
+LOAD
+LOOK
+INVENTORY

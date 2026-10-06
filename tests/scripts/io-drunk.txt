@@ -1,0 +1,46 @@
+#opts --seed 7
+# Drunk on the wine ($B700): every "s" printed in the text window gets an
+# "h" after it ($858B), and the score (capital S, $85AB).
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+TAKE ROPE
+S
+S
+SE
+E
+E
+E
+E
+S
+WAIT
+WAIT
+KILL WARG WITH SWORD
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+OPEN BARREL
+DRINK WINE
+SCORE
+SSSX
+LOOK

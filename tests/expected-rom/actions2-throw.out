@@ -1,0 +1,179 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin waits.
+> EXAMINE CHEST
+
+you examine the wooden chest.
+you see the wooden chest.
+gandalf opens the round green door.
+> THROW MAP THROUGH DOOR
+
+you throw the curious map through the 
+round green door.
+gandalf goes east.
+thorin sits down and starts singing about gold.
+> OPEN DOOR
+ the door is open.
+> THROW MAP THROUGH DOOR
+ i do not see the map here
+> THROW CHEST THROUGH DOOR
+ you are not carrying it.
+> TAKE CHEST
+ the chest is too heavy to lift.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+a curious map.
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> TAKE MAP
+ gandalf is carrying the map.
+> W
+
+you go west.
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin enters.
+> THROW MAP THROUGH DOOR
+ i do not see the map here
+> E
+
+you go east.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+> LOOK
+
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf gives the curious map to you.
+> E
+
+you go east.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+gandalf enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+gandalf enters.
+elrond says " hello ".
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+      nothing
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+visible exits are: east west north
+you see :
+      nothing
+> E
+
+you go east.
+you are on a narrow dangerous path
+visible exits are: east west
+you see :
+      nothing
+day dawns.
+> E
+
+you go east.
+you are in beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+> NE
+
+you go northeast.
+you are at the gate to mirkwood
+visible exits are: west south east
+you see :
+      nothing
+> E
+
+you go east.
+you are in the bewitched gloomy place
+to the south there is the fast black river
+visible exits are: west east
+you see :
+      nothing
+> LOOK
+
+you are in the bewitched gloomy place
+to the south there is the fast black river
+visible exits are: west east
+you see :
+      nothing
+> EXAMINE RIVER
+
+you examine the fast black river.
+you see a fast flowing black river not 
+very wide across.
+> PUT MAP IN RIVER
+
+you put the curious map in the fast black river.
+i cannot do that.
+> TAKE MAP
+ you are already carrying the 
+map.
+> DROP MAP IN RIVER
+
+you drop the curious map in the fast blackriver.
+i cannot do that.
+> INVENTORY
+
+you are carrying.
+a curious map.
+> WAIT
+
+you wait.
+time passes...
+> LOOK
+
+you are in the bewitched gloomy place
+to the south there is the fast black river
+visible exits are: west east
+you see :
+      nothing
+> 

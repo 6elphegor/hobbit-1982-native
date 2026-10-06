@@ -1,0 +1,423 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin says " hurry up ".
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> NE
+
+you go northeast.
+you are in a hidden path with trolls foot printS
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf enters.
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf drops the curious map.
+> WAIT
+
+you wait.
+time passes...
+gandalf says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf goes south.
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> S
+
+you go south.
+you are in the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+gandalf. gandalf is carrying
+the large key.
+the hideous troll.
+the vicious troll.
+gandalf gives the large key to you.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> N
+
+you go north.
+the trolls path
+visible exits are: south
+you see :
+a curious map.
+thorin enters.
+> UNLOCK DOOR WITH MAP
+ i cannot do that.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+> LOCK DOOR WITH KEY
+
+you lock the heavy rock door with the 
+large key.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+day dawns.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin waits.
+> N
+
+you go north.
+you are in the trolls cave
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE SWORD
+
+you take the short strong sword.
+thorin says " hurry up ".
+> TAKE ROPE
+
+you take the rope.
+> TIE ROPE TO SWORD
+
+you tie the rope to the short strong sword.
+> TIE ROPE TO SWORD
+ the rope is already tieD.
+> INVENTORY
+
+you are carrying.
+the large key.
+the rope. tieD to the rope there is
+the short strong sword.
+> UNTIE SWORD
+
+you untie the short strong sword.
+thorin says " hurry up ".
+> UNTIE ROPE
+ the rope is not tieD.
+> TIE ROPE TO THORIN
+ you cannot tie the rope to 
+thorin.
+> TIE ROPE TO ROPE
+ i cannot do that.
+> TIE SWORD TO ROPE
+
+you tie the short strong sword to the rope.
+thorin sits down and starts singing about gold.
+> UNTIE SWORD
+
+you untie the short strong sword.
+> DROP ROPE
+
+you drop the rope.
+thorin waits.
+> TIE SWORD TO ROPE
+
+you tie the short strong sword to the rope.
+thorin says " hurry up ".
+> TIE ROPE TO KEY
+ the rope is already tieD.
+> DROP KEY
+
+you drop the large key.
+thorin sits down and starts singing about gold.
+> TIE KEY TO ROPE
+ the rope is already tieD.
+> UNTIE KEY
+ the key is not tieD.
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+a curious map.
+thorin enters.
+> S
+
+you go south.
+you are in in a clearing with two stone 
+trolls
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+thorin enters.
+elrond says " hello ".
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+      nothing
+gandalf enters.
+thorin enters.
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+visible exits are: east west north
+you see :
+      nothing
+thorin enters.
+> N
+
+you go north.
+you are in a large dry cave which is quitecomfortable
+below there is the small insignificant 
+crack
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+someone closes the small insignificant 
+crack.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+someone opens the small insignificant 
+crack.
+> WAIT
+
+you wait.
+time passes...
+the nasty goblin enters.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the nasty goblin captures you.
+you are in the goblins dungeon
+to the north there is the goblins door
+to the west there is the window
+you see :
+some sand.
+> WAIT
+
+you wait.
+time passes...
+thorin appears.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> SAY TO THORIN "CARRY ME"
+
+you talk to thorin.
+thorin carry\x08ies you.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> OPEN WINDOW
+ you cannot open the window.
+> SAY TO THORIN "OPEN WINDOW"
+
+you talk to thorin.
+thorin opens the window.
+> WAIT
+
+you wait.
+time passes...
+> SAY TO THORIN "GO WEST"
+
+you talk to thorin.
+thorin goes west.
+you are in the dark winding passage
+to the north there is the window
+visible exits are: southwest southeast
+you see :
+thorin. thorin is carrying
+you
+> CLIMB OUT OF THORIN
+ you cannot climb out of thorin.
+> LOOK
+
+you are in the thorin.
+you see :
+      nothing
+> SW
+
+you go southwest.
+you are in a big cavern with torchES alongthe wallS
+to the southeast there is the goblins door
+visible exits are: down northeast
+you see :
+      nothing
+thorin enters.
+> OPEN DOOR
+
+you open the goblins door.
+thorin waits.
+> LOOK
+
+you are in a big cavern with torchES alongthe wallS
+to the southeast there is the goblins door
+visible exits are: down northeast
+you see :
+thorin.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> LOOK
+
+you are in a big cavern with torchES alongthe wallS
+to the southeast there is the goblins door
+visible exits are: down northeast
+you see :
+thorin.
+> NE
+
+you go northeast.
+the dark winding passage
+visible exits are: southwest southeast
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in the dark stuffy passage
+visible exits are: up north east
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in the dark stuffy passage
+visible exits are: southeast east south up
+you see :
+      nothing
+thorin enters.
+the hideous goblin enters.
+> SE
+
+you go southeast.
+you are in the dark stuffy passage
+visible exits are: east
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in the dark stuffy passage
+visible exits are: north northwest
+you see :
+the valuable golden ring.
+thorin enters.
+> TAKE RING
+
+you take the valuable golden ring.
+the horrible goblin enters.
+> KILL GOBLIN WITH SWORD
+
+you attack the horrible goblin with the 
+short strong sword.
+with one well placed blow you cleave his 
+skull.
+the goblin is dead.
+the goblin falls down a hole and vanishes.
+gollum enters.
+> KILL GOBLIN WITH SWORD
+ i do not see the goblin here
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+gollum says " what has it got in its 
+pockets ? ".
+> WAIT
+
+you wait.
+time passes...
+gollum takes the valuable golden ring.
+> 

@@ -1,0 +1,8 @@
+#opts --seed 7
+# The text window ($86A1): a backspace in a message ($8761), lines that
+# fill up, and the scroll.
+TAKE MAP
+SAY TO THORIN "CARRY ME"
+SAY TO THORIN "CARRY ME"
+SAY TO THORIN "GO EAST"
+WAIT

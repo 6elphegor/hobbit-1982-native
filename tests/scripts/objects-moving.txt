@@ -1,0 +1,17 @@
+#opts --seed 7
+# port/objects.c: moving with things ($9BDD moves what is inside, $9C17),
+# being carried by Thorin (you move with him, and look), and going through
+# a door ($9F25).
+TAKE MAP
+SAY TO THORIN "CARRY ME"
+SAY TO THORIN "CARRY ME"
+SAY TO THORIN "GO EAST"
+WAIT
+SAY TO THORIN "GO WEST"
+WAIT
+ENTER DOOR
+GO THROUGH THE DOOR
+W
+INVENTORY
+CLOSE DOOR
+GO THROUGH THE DOOR

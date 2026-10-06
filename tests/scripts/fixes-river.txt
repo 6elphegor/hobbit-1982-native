@@ -1,0 +1,13 @@
+#opts --seed 42
+#scene 0=22 0E=22
+# PUT X IN RIVER ($9428) looks for the location the river runs on from in
+# V_ACTOR_LOCATION, the last character to have had its turn, not the
+# actor's: "i cannot do that" (the sword is in the river all the same).
+# Fixed (clean edition): it is swept away. The scene: the player and
+# the sword at Long Lake, the last of the fast river's places.
+LOAD
+@key  
+LOOK
+TAKE SWORD
+PUT SWORD IN RIVER
+LOOK

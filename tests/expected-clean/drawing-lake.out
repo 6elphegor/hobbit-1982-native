@@ -1,0 +1,408 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin waits.
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+gandalf gives the curious map to you.
+> WAIT
+
+you wait.
+time passes...
+gandalf goes north.
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+day dawns.
+> WAIT
+
+you wait.
+time passes...
+> E
+
+you go east.
+you are in in a clearing with two stone 
+trolls
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the large key.
+thorin enters.
+> TAKE KEY
+
+you take the large key.
+thorin says " hurry up ".
+> N
+
+you go north.
+you are in a hidden path with trolls foot printS
+[picture $06]
+
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+gandalf.
+gandalf goes south.
+thorin enters.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+thorin waits.
+> OPEN DOOR
+
+you open the heavy rock door.
+thorin says " hurry up ".
+> N
+
+you go north.
+you are in the trolls cave
+[picture $07]
+
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE SWORD
+
+you take the short strong sword.
+thorin says " hurry up ".
+> TAKE ROPE
+
+you take the rope.
+thorin says " hurry up ".
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+thorin enters.
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+gandalf.
+gandalf goes north.
+thorin enters.
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+[picture $0B]
+
+visible exits are: east west north
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are on a narrow dangerous path
+visible exits are: east west
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+thorin enters.
+> S
+
+you go south.
+you are on the forest road
+visible exits are: east north
+you see :
+      nothing
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+the wood elf enters.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+the wood elf captures you.
+you are on a dark dungeon in the 
+elvenkings halls
+[picture $1F]
+
+to the southwest there is the red door
+to the west there is the red door
+you see :
+the vicious warg.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+with one well placed blow the vicious wargcleaves your skull.
+you are dead.
+you have MASTERED 12.5% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> 
+> KILL BUTLER WITH SWORD
+ i do not see the butler here
+> WAIT
+
+you wait.
+time passes...
+gandalf opens the round green door.
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+gandalf goes east.
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> SW
+ you cannot go southwest.
+> KILL BUTLER WITH SWORD
+ i do not see the butler here
+> OPEN TRAP DOOR
+ i do not see the trap door here
+> OPEN BARREL
+ i do not see the barrel here
+> TAKE BARREL
+ i do not see the barrel here
+> DROP WINE
+ i do not see the wine here
+> THROW BARREL THROUGH TRAP DOOR
+ i do not see the barrel here
+> JUMP ONTO BARREL
+ you cannot jump onto the barrel from here.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> W
+
+you go west.
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin enters.
+> N
+ you cannot go north.
+> U
+ you cannot go up.
+> N
+ you cannot go north.
+> N
+ you cannot go north.
+> N
+ you cannot go north.
+> E
+
+you go east.
+the lonelands
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> LOOK
+
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+thorin.
+> 

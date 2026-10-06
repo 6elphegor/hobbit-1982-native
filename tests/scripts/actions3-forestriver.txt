@@ -1,0 +1,16 @@
+#opts --seed 1
+# Swimming the forest river ($A2CD) takes you to the portcullis.
+OPEN DOOR
+E
+E
+SE
+E
+E
+E
+E
+N
+NE
+SE
+SWIM RIVER
+@key  
+LOOK

@@ -1,0 +1,26 @@
+#opts --seed 42
+# Examining things with and without their own text; going into the dark
+# cave north of the narrow place: "it is dark" ($95ED), "i see nothing
+# here" ($950F), others heard acting in the dark ($980E).
+EXAMINE MAP
+READ MAP
+EXAMINE THORIN
+EXAMINE GANDALF
+EXAMINE DOOR
+OPEN DOOR
+E
+E
+SE
+E
+E
+N
+LOOK
+EXAMINE CAVE
+INVENTORY
+WAIT
+WAIT
+WAIT
+S
+N
+D
+LOOK

@@ -1,0 +1,11 @@
+#opts --seed 42
+# Climbing into the chest and closing it on yourself ($9138 does not check
+# whether the actor is inside): then it is dark, you cannot see the chest
+# to open it, nor climb out, for good. Fixed (clean edition): you cannot
+# close it on yourself.
+OPEN CHEST
+CLIMB INTO CHEST
+CLOSE CHEST
+OPEN CHEST
+CLIMB OUT
+LOOK

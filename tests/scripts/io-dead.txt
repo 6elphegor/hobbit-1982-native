@@ -1,0 +1,5 @@
+#opts --seed 1
+# Dying: "you are dead" waits for a key at $90DF, then the game restarts.
+ATTACK THORIN
+@key  
+LOOK

@@ -1,0 +1,72 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+thorin waits.
+> TAKE MAP
+ you are already carrying the 
+map.
+> SAY TO THORIN "CARRY ME"
+
+you talk to thorin.
+thorin sayS " no "
+gandalf opens the round green door.
+> SAY TO THORIN "CARRY ME"
+
+you talk to thorin.
+gandalf goes east.
+thorin carry\x08ies you.
+> SAY TO THORIN "GO EAST"
+
+you talk to thorin.
+thorin sayS " no "
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+> SAY TO THORIN "GO WEST"
+
+you talk to thorin.
+thorin sayS " no "
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+> ENTER DOOR
+ you cannot enter the round 
+green door.
+> GO THROUGH THE DOOR
+
+you go through the round green door.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> W
+
+you go west.
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin enters.
+> INVENTORY
+
+you are carrying.
+a curious map.
+> CLOSE DOOR
+
+you close the round green door.
+> GO THROUGH THE DOOR
+ you cannot go through the round green door.
+> 

@@ -1,0 +1,546 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> OPEN DOOR
+
+you open the round green door.
+gandalf goes east.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+gandalf.
+gandalf takes the curious map.
+thorin enters.
+> E
+
+you go east.
+you are in the trolls clearing
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the hideous troll. the troll is 
+carrying
+the large key.
+the vicious troll.
+thorin enters.
+the hideous troll says " blimey, looks at this!! can yer cook'EM? ".
+the vicious troll says " yer can try, but he wouldN'T make above a mouthfull ".
+> SW
+
+you go southwest.
+the lonelands
+visible exits are: east north northeast
+you see :
+gandalf. gandalf is carrying
+a curious map.
+gandalf closes the round green door.
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+gandalf gives the curious map to you.
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+gandalf goes east.
+> WAIT
+
+you wait.
+time passes...
+day dawns.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> E
+
+you go east.
+you are in in a clearing with two stone 
+trolls
+[picture $05]
+
+visible exits are: southwest southeast 
+north
+you see :
+the large key.
+thorin enters.
+> TAKE KEY
+
+you take the large key.
+thorin waits.
+> N
+
+you go north.
+you are in a hidden path with trolls foot printS
+[picture $06]
+
+to the north there is the heavy rock door
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> UNLOCK DOOR WITH KEY
+
+you unlock the heavy rock door with the 
+large key.
+thorin waits.
+> OPEN DOOR
+
+you open the heavy rock door.
+> N
+
+you go north.
+you are in the trolls cave
+[picture $07]
+
+to the south there is the heavy rock door
+you see :
+the short strong sword.
+the rope.
+thorin enters.
+> TAKE SWORD
+
+you take the short strong sword.
+> TAKE ROPE
+
+you take the rope.
+thorin waits.
+> S
+
+you go south.
+the trolls path
+visible exits are: south
+you see :
+      nothing
+thorin enters.
+> S
+
+you go south.
+the trolls clearing
+visible exits are: southwest southeast 
+north
+you see :
+      nothing
+thorin enters.
+> SE
+
+you go southeast.
+you are in rivendell
+visible exits are: east west
+you see :
+elrond.
+thorin enters.
+> E
+
+you go east.
+you are on a hard dangerous path in the 
+misty mountains
+visible exits are: east north west south
+you see :
+      nothing
+gandalf enters.
+thorin enters.
+> E
+
+you go east.
+you are in a narrow place with a dreadful drop into a dim valley
+[picture $0B]
+
+visible exits are: east west north
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are on a narrow dangerous path
+visible exits are: east west
+you see :
+      nothing
+thorin enters.
+> E
+
+you go east.
+you are in beorns house
+visible exits are: northeast northwest 
+south southwest north
+you see :
+a heavy curtain.
+thorin enters.
+the wood elf enters.
+> S
+
+you go south.
+you are on the forest road
+visible exits are: east north
+you see :
+      nothing
+thorin enters.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+> WAIT
+
+you wait.
+time passes...
+the wood elf enters.
+> WAIT
+
+you wait.
+time passes...
+the wood elf captures you.
+you are on a dark dungeon in the 
+elvenkings halls
+[picture $1F]
+
+to the southwest there is the red door
+to the west there is the red door
+you see :
+      nothing
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+> WAIT
+
+you wait.
+time passes...
+thorin appears.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+the vicious warg appears.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+someone unlocks the red door with the red key.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+someone opens the red door.
+> SW
+
+you go southwest.
+you are in the cellar where the king keepshis barrelS of wine
+[picture $20]
+
+to the northeast there is the red door
+below there is the large trap door
+visible exits are: north
+you see :
+a barrel.
+the butler. the butler is carrying
+the red key.
+thorin enters.
+the vicious warg enters.
+the butler closes the red door.
+> KILL BUTLER WITH SWORD
+
+you attack the butler with the short 
+strong sword.
+you hit the butler hard on the shoulder- 
+the butler staggers and almost falls.
+thorin sits down and starts singing about gold.
+the vicious warg runs around you and howls.
+the butler captures you.
+you are in a dark dungeon in the 
+elvenkings halls
+[picture $1F]
+
+to the southwest there is the red door
+to the west there is the red door
+you see :
+      nothing
+> WAIT
+
+you wait.
+time passes...
+thorin appears.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg appears.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> WAIT
+
+you wait.
+time passes...
+thorin says " hurry up ".
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+someone opens the red door.
+> SW
+
+you go southwest.
+the elvenkings cellar
+visible exits are: north
+you see :
+a barrel.
+the butler. the butler is carrying
+the red key.
+thorin enters.
+the vicious warg enters.
+the butler closes the red door.
+> KILL BUTLER WITH SWORD
+
+you attack the butler with the short 
+strong sword.
+with one well placed blow you cleave his 
+skull.
+the butler is dead.
+the vicious warg runs around you and howls.
+> OPEN TRAP DOOR
+
+you open the large trap door.
+thorin says " hurry up ".
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> OPEN BARREL
+
+you open the barrel.
+in the barrel there is
+some wine.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> TAKE BARREL
+
+you take the barrel.
+thorin waits.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> DROP WINE
+
+you drop some wine.
+some wine evaporates.
+thorin says " hurry up ".
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> THROW BARREL THROUGH TRAP DOOR
+
+you throw the barrel through the large 
+trap door.
+the vicious warg attacks you.
+but the effort is wasted. your defense is too strong.
+> JUMP ONTO BARREL
+
+you jump onto the barrel.
+you are at forestriver
+to the east there is the strong portcullis
+above there is the large trap door
+to the south there is the fast river
+you see :
+a barrel. in the barrel there is
+you
+you are at forestriver
+to the east there is the strong portcullis
+above there is the large trap door
+to the south there is the fast river
+you see :
+a barrel. in the barrel there is
+you
+thorin enters.
+the vicious warg enters.
+you are thrown onto the bank of the long 
+lake.
+you are at long lake
+to the northwest there is the strong 
+portcullis
+visible exits are: north east south
+you see :
+a barrel. in the barrel there is
+you
+> E
+
+you go east.
+you are in a wooden town in the middle of long lake
+[picture $23]
+
+visible exits are: north south east west
+you see :
+bard. bard is carrying
+a bow.
+a strong arrow.
+> W
+
+you go west.
+you are at long lake
+to the northwest there is the strong 
+portcullis
+visible exits are: north east south
+you see :
+      nothing
+> N
+
+you go north.
+you are on a strong river: the current is now too strong to move against
+visible exits are: up south
+you see :
+      nothing
+> U
+
+you go up.
+you are in a bleak barren land that was 
+once green
+[picture $25]
+
+visible exits are: north down
+you see :
+      nothing
+> N
+
+you go north.
+you are in the ruins of the town of dale
+[picture $26]
+
+visible exits are: north south northwest
+you see :
+      nothing
+> N
+
+you go north.
+you are at the front gate of the lonely 
+mountain
+[picture $27]
+
+visible exits are: north south west
+you see :
+      nothing
+the red golden dragon enters.
+> N
+
+you go north.
+you are in the halls where the dragon 
+sleeps
+[picture $29]
+
+visible exits are: south east up
+you see :
+the valuable treasure.
+the red golden dragon enters.
+> E
+
+you go east.
+you are in a smooth straight passage
+[picture $2B]
+
+visible exits are: east
+you see :
+      nothing
+> LOOK
+
+you are in a smooth straight passage
+[picture $2B]
+
+visible exits are: east
+you see :
+      nothing
+> 

@@ -1,0 +1,32 @@
+#opts --seed 7
+# Examine; throwing things through doors ($94A4); the river ($9428) at the
+# bewitched place, which says "i cannot do that" (see actions2.c); then the
+# wood elf takes the player to the dark dungeon.
+EXAMINE CHEST
+THROW MAP THROUGH DOOR
+OPEN DOOR
+THROW MAP THROUGH DOOR
+THROW CHEST THROUGH DOOR
+TAKE CHEST
+E
+TAKE MAP
+W
+THROW MAP THROUGH DOOR
+E
+LOOK
+E
+SE
+E
+E
+E
+E
+NE
+E
+LOOK
+EXAMINE RIVER
+PUT MAP IN RIVER
+TAKE MAP
+DROP MAP IN RIVER
+INVENTORY
+WAIT
+LOOK

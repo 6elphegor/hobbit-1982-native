@@ -1,0 +1,80 @@
+#opts --seed 7
+# The Elvenking's cellar (port/actions1.c), by the route of
+# events-elves.txt: filling the barrel that is already full ($8F69),
+# putting the sword into it (too full, $924F); carried off in the barrel,
+# the wine is dropped and evaporates ($8CCE); from inside the barrel you
+# cannot take it. Then down the trap door without being in the barrel:
+# swept against the portcullis ($C7EA calls $8E39), and dead.
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+TAKE ROPE
+S
+S
+SE
+E
+E
+E
+E
+S
+WAIT
+WAIT
+KILL WARG WITH SWORD
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+OPEN BARREL
+FILL BARREL WITH WINE
+PUT SWORD IN BARREL
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+TAKE BARREL
+OPEN BARREL
+DROP WINE
+INVENTORY
+OPEN BARREL
+CLIMB INTO BARREL
+TAKE BARREL
+LOOK
+N
+CLIMB OUT OF BARREL
+TAKE BARREL
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+OPEN TRAP DOOR
+D
+@key  
+LOOK

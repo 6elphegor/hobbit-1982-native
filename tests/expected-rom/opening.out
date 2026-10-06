@@ -1,0 +1,51 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> LOOK
+
+you are in a comfortable tunnel like hall
+[picture $01]
+
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf.
+thorin.
+gandalf opens the round green door.
+> INVENTORY
+
+you are carrying.
+a curious map.
+gandalf goes east.
+thorin says " hurry up ".
+> XYZZY
+ i do not know the word " XYZZY"
+> EXAMINE CHEST
+
+you examine the wooden chest.
+you see the wooden chest.
+thorin says " hurry up ".
+> OPEN DOOR
+ the door is open.
+> EAST
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+[picture $04]
+
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+gandalf enters.
+thorin enters.
+> 

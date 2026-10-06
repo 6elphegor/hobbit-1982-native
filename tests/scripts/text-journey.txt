@@ -1,0 +1,18 @@
+#opts --seed 7 --text-only
+# Action messages seen from outside and in the dark: "someone" closes the
+# door behind you, and "you go somewhere" north of the narrow place.
+WAIT
+WAIT
+EAST
+WEST
+WAIT
+OPEN DOOR
+EAST
+EAST
+SOUTHEAST
+EAST
+EAST
+NORTH
+WAIT
+WEST
+LOOK

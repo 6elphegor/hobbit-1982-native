@@ -1,0 +1,24 @@
+#opts --seed 7
+# Inside the chest it is dark (port/actions1.c): looking from inside,
+# looking through the door, and moving in the dark, where you fall and hit
+# your head until you smash your skull ($8DD9) and die ($90D2).
+OPEN CHEST
+CLIMB INTO CHEST
+LOOK
+INVENTORY
+LOOK THROUGH DOOR
+CLOSE CHEST
+LOOK THROUGH DOOR
+OPEN CHEST
+TAKE CHEST
+DROP MAP
+TAKE MAP
+N
+S
+E
+W
+U
+D
+N
+@key  
+LOOK

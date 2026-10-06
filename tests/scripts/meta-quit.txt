@@ -1,0 +1,11 @@
+#opts --seed 7
+# PAUSE ($843A: border, wait for a key and its release), SCORE ($83EF),
+# QUIT ($8391: the score, a key, a restart), and a new game after it.
+PAUSE
+@key  
+LOOK
+SCORE
+QUIT
+@key  
+LOOK
+INVENTORY

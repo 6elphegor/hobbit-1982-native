@@ -1,0 +1,195 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf.
+thorin.
+gandalf opens the round green door.
+thorin sits down and starts singing about gold.
+> INVENTORY
+
+you are carrying.
+a curious map.
+gandalf goes east.
+> DROP MAP
+
+you drop the curious map.
+thorin waits.
+> TAKE CHEST
+ the chest is too heavy to lift.
+> TAKE MAP
+
+you take the curious map.
+> INVENTORY
+
+you are carrying.
+a curious map.
+> OPEN CHEST
+
+you open the wooden chest.
+thorin sits down and starts singing about gold.
+> CLOSE CHEST
+
+you close the wooden chest.
+thorin says " hurry up ".
+> CLOSE CHEST
+ the chest is closed.
+> PUT MAP IN CHEST
+ the chest is closed.
+> OPEN CHEST
+
+you open the wooden chest.
+thorin says " hurry up ".
+> PUT MAP IN CHEST
+
+you put the curious map in the wooden 
+chest.
+> TAKE MAP OUT OF CHEST
+
+you take the curious map out of the woodenchest.
+thorin waits.
+> TAKE MAP OUT OF CHEST
+
+you take the curious map out of the woodenchest.
+thorin waits.
+> TAKE MAP OUT OF DOOR
+ i cannot do that.
+> CLOSE DOOR
+
+you close the round green door.
+thorin says " hurry up ".
+> E
+ you cannot go east.
+> OPEN DOOR
+
+you open the round green door.
+thorin sits down and starts singing about gold.
+> LOOK THROUGH DOOR
+
+you look through the round green door.
+you see a gloomy empty land with dreary 
+hills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+> GO THROUGH DOOR
+
+you go through the round green door.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+thorin enters.
+> W
+
+you go west.
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+thorin enters.
+> ENTER DOOR
+ you cannot enter the round 
+green door.
+> W
+ you cannot go west.
+> FOLLOW THORIN
+ i cannot follow thorin from 
+here.
+> FOLLOW GANDALF
+ i cannot follow gandalf from 
+here.
+> GIVE MAP TO THORIN
+
+you give the curious map to thorin.
+thorin says " thank you ".
+> GIVE CHEST TO THORIN
+ you are not carrying it.
+> SAY TO THORIN "HELLO"
+
+you talk to thorin.
+thorin says " what do you expect me to do with this ? ".
+> TALK TO GANDALF
+ i do not see the gandalf here
+> THROW CHEST AT THORIN
+ the chest is too heavy to lift.
+> THROW MAP AT THORIN
+ thorin is carrying the map.
+> THROW MAP AT DOOR
+ thorin is carrying the map.
+> TAKE MAP
+ thorin is carrying the map.
+> SHOOT THORIN
+ you are not carrying the bow.
+> ATTACK THORIN WITH MAP
+ thorin is carrying the map.
+> STRIKE CHEST
+ you cannot strike the wooden 
+chest.
+> STRIKE DOOR
+
+you strike the round green door.
+the door is broken.
+> STRIKE DOOR WITH MAP
+ thorin is carrying the map.
+> ATTACK THORIN
+
+you attack thorin.
+but the effort is wasted. his defense is 
+too strong.
+thorin attacks you.
+with one well placed blow thorin cleaves 
+your skull.
+you are dead.
+you have MASTERED 2.5% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> TACK GANDALF
+ i do not know the word " TACK "
+> EAT MAP
+ i cannot do that.
+> EAT CHEST
+ i cannot do that.
+> RUN
+ you cannot go east.
+> RUN
+ you cannot go east.
+> INVENTORY
+
+you are carrying.
+a curious map.
+gandalf opens the round green door.
+thorin sits down and starts singing about gold.
+> E
+
+you go east.
+you are in a gloomy empty land with drearyhills ahead
+to the west there is the round green door
+visible exits are: east north northeast
+you see :
+      nothing
+gandalf enters.
+thorin enters.
+> 

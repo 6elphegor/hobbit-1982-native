@@ -1,0 +1,51 @@
+#opts --seed 7 --show-pictures
+# The running river ($08, port/drawing.c): by the barrel to the long lake
+# (its east exit is closed in this game), then south past the waterfall.
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+TAKE ROPE
+S
+S
+SE
+E
+E
+E
+E
+S
+WAIT
+WAIT
+KILL WARG WITH SWORD
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+KILL BUTLER WITH SWORD
+OPEN TRAP DOOR
+OPEN BARREL
+TAKE BARREL
+DROP WINE
+THROW BARREL THROUGH TRAP DOOR
+JUMP ONTO BARREL
+S
+S
+LOOK

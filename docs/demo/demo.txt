@@ -1,0 +1,19 @@
+#opts --seed 174 --original-bugs
+# The README's demo (tools/make-demo.sh), after the tape loading: Bag
+# End, Gandalf and the map, Thorin's song; Gandalf killed (with the
+# original's dice, --original-bugs: one blow can do it; the clean
+# edition's fair ones never let it), and Thorin's view of that; east over
+# the hills to the trolls, and what comes of waiting there. (Waiting at
+# the prompt lets the characters act: the @wait counts decide what
+# happens.)
+@wait 170
+KILL GANDALF
+@wait 150
+OPEN DOOR
+@wait 60
+EAST
+@wait 60
+EAST
+@wait 120
+WAIT
+@wait 160

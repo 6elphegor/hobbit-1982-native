@@ -1,0 +1,72 @@
+#opts --seed 16 --show-pictures
+# Pictures late in the game (port/drawing.c): captured by the wood elf,
+# kill the butler in the cellar, throw the barrel through the trap door
+# and jump onto it: the long lake, lake town ($23), the desolation ($25),
+# dale ($26), the front gate ($27), the lower halls ($29) and the smooth
+# passage ($2B, a dark place lit by the sword).
+OPEN DOOR
+E
+E
+SW
+WAIT
+WAIT
+WAIT
+WAIT
+E
+TAKE KEY
+N
+UNLOCK DOOR WITH KEY
+OPEN DOOR
+N
+TAKE SWORD
+TAKE ROPE
+S
+S
+SE
+E
+E
+E
+E
+S
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+KILL BUTLER WITH SWORD
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+WAIT
+SW
+KILL BUTLER WITH SWORD
+OPEN TRAP DOOR
+OPEN BARREL
+TAKE BARREL
+DROP WINE
+THROW BARREL THROUGH TRAP DOOR
+JUMP ONTO BARREL
+E
+W
+N
+U
+N
+N
+N
+E
+LOOK

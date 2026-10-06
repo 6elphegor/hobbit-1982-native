@@ -1,0 +1,83 @@
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> TAKE CHEST
+ the chest is too heavy to lift.
+> OPEN CHEST
+
+you open the wooden chest.
+gandalf opens the round green door.
+thorin sits down and starts singing about gold.
+> PUT MAP IN CHEST
+
+you put the curious map in the wooden 
+chest.
+gandalf goes east.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest. in the chest there 
+is
+a curious map.
+thorin.
+thorin waits.
+> TAKE MAP FROM CHEST
+ i cannot do that.
+> UNLOCK DOOR WITH MAP
+ the map doES not fit this lock.
+> SAY TO THORIN "XYZZY"
+ i do not know the word " XYZZY"
+> SAY TO THORIN "TAKE THE FOOBAR"
+ i do not know the word " FOOBAR"
+> SAY TO GANDALF "HELLO"
+ i do not see the gandalf here
+> THORIN, TAKE MAP
+ what ?
+> WEAR MAP
+ i cannot do that.
+> DROP CHEST
+ you are not carrying it.
+> INVENTORY
+
+you are carrying.
+      nothing
+> KILL THORIN WITH MAP
+
+you attack thorin with the curious map.
+but the effort is wasted. his defense is 
+too strong.
+thorin attacks you.
+with one well placed blow thorin cleaves 
+your skull.
+you are dead.
+you have MASTERED 0.0% of this adventure.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf. gandalf is carrying
+a curious map.
+thorin.
+gandalf gives the curious map to you.
+> LOOK
+
+you are in a comfortable tunnel like hall
+to the east there is the round green door
+you see :
+the wooden chest.
+gandalf.
+thorin.
+gandalf opens the round green door.
+thorin waits.
+> 

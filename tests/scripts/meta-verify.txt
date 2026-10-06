@@ -1,0 +1,12 @@
+#opts --seed 5 --save-tape no-such-dir/hobbit-save.tap
+# SAVE to a tape that cannot be written: the verify fails ($855A: "tape
+# error - hit any key to continue", a key, back to the game through
+# $8553), and a LOAD from it fails too (a restart).
+SAVE
+@key  
+@key  
+@key  
+LOOK
+LOAD
+@key  
+LOOK

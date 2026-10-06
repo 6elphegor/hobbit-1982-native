@@ -1,0 +1,17 @@
+#opts --seed 11
+# The executor: "which ...?" for the second object ($7D98), answered and
+# not; ALL with objects that cannot be taken ($7DC7); orders with ALL.
+OPEN THE CHEST
+PUT THE MAP IN THE CHEST
+TAKE THE MAP FROM THE CHEST
+TAKE THE MAP OUT OF THE CHEST
+SAY TO THORIN "TAKE ALL"
+OPEN DOOR
+E
+E
+GIVE MAP TO TROLL
+HIDEOUS
+GIVE MAP TO TROLL
+NORTH
+TAKE ALL
+SAY TO THORIN "TAKE ALL"

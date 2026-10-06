@@ -1,0 +1,9 @@
+#opts --seed 3
+# A bug in the original: the main loop rejects a line with an unclosed
+# quote, but leaves its words in the token list, and '@' (repeat) sends
+# them to the parser without the check. The parser opens a quoted sentence
+# that never closes and returns to the record pointer it pushed, running
+# data as code until it reaches $0000: the Spectrum resets.
+SAY "HELLO
+@key @
+LOOK
