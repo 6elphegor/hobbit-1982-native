@@ -11,6 +11,7 @@ original transcript for transcript.
 ![Routines](https://img.shields.io/badge/routines_ported-338%2F338-2ea44f?style=flat-square)
 ![Tests](https://img.shields.io/badge/test_suite-~10s-2ea44f?style=flat-square)
 ![ZX Spectrum](https://img.shields.io/badge/ZX_Spectrum-48K-d70000?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 <br>
 
@@ -283,3 +284,10 @@ Eleven agents ported the areas in parallel, one file each.
   `third_party/z80` (MIT), used only by the reference machine.
 - The [TASVideos](https://tasvideos.org) runners, for finding the glitch
   that ends the game.
+
+## 📜 License
+
+The code in this repository is [MIT](LICENSE) (the Z80 core in
+`third_party/z80` is MIT too, under its own notice). The license covers
+this project's code only: *The Hobbit* itself, its text, pictures and
+data, belongs to its rights holders and is not included or licensed here.
